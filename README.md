@@ -1,2 +1,3 @@
 # issre22
-Repository to store the experimental data of my ISSRE22 paper
+
+This is the repository to store and share the experimental data of my ISSRE'22 paper. The constraints used in the experiments are in constraint.xml.
